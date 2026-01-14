@@ -5,6 +5,7 @@ src/main/java/org/example/Class3.java
 src/main/java/org/example/Dog.java
 src/main/java/org/example/Interface.java
 src/main/java/org/example/SiaticClass.java
+src/main/java/org/example/Cat.java
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
