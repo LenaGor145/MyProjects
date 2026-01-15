@@ -16,7 +16,7 @@ public class InzhenerkaLoginTest {
     }
 
     @Test
-    @DisplayName("Проверка логина как юзера")
+    @DisplayName("Проверка логина как юзера и приветствия")
     public void runLoginTestAsUser() {
         LoginPage loginPage = new LoginPage();
         loginPage.openPage();
