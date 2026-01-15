@@ -25,7 +25,7 @@ public class loginAndLogoutTest2 {
         $("button[type='submit']").click();
         $(byText("Выйти")).shouldBe(visible);
 
-        // --- ЧАСТЬ 2: Выход ---
+
         $(byText("Выйти")).click();
         $(byText("Войти")).shouldBe(visible); // проверка выхода
 
